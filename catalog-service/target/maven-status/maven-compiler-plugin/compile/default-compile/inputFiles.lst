@@ -1,0 +1,7 @@
+/projects/cloud-native-workshop-v2m4-labs/catalog-service/src/main/java/com/redhat/cloudnative/service/CatalogEndpoint.java
+/projects/cloud-native-workshop-v2m4-labs/catalog-service/src/main/java/com/redhat/cloudnative/model/Product.java
+/projects/cloud-native-workshop-v2m4-labs/catalog-service/src/main/java/com/redhat/cloudnative/RestApplication.java
+/projects/cloud-native-workshop-v2m4-labs/catalog-service/src/main/java/com/redhat/cloudnative/model/Inventory.java
+/projects/cloud-native-workshop-v2m4-labs/catalog-service/src/main/java/com/redhat/cloudnative/service/CatalogService.java
+/projects/cloud-native-workshop-v2m4-labs/catalog-service/src/main/java/com/redhat/cloudnative/client/InventoryClient.java
+/projects/cloud-native-workshop-v2m4-labs/catalog-service/src/main/java/com/redhat/cloudnative/service/ProductRepository.java
